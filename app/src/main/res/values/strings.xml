@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="topTitleString">邀请函</string>
+    <string name="topContentString">我使用信源豆豆私有服务器已经有两、三个月了，感觉很棒！通讯安全可信值得信赖，自动部署也省心，所以把它推荐给您！阿三大苏打阿斯顿阿萨大大大苏打似的啊大大大苏打大大大的阿萨大大是啊实打实大苏打实打实大大阿大撒大撒大苏打大苏打阿大撒大苏打大大大大苏打阿萨大大大苏打大苏打大苏打大阿大撒大大大大大大大大大阿大撒大大大大大大大大阿大大大大大撒大苏打大苏打啊大大大大大大大啊</string>
+    <string name="bottomContentString">1996-2018 背景北信源软件股份有限公司</string>
+    <string name="bottomTitleString">95折优惠券</string>
+
+</resources>

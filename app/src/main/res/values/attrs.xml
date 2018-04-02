@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="InvitationCodeView">
+        <attr name="topTitleString" format="string"/>
+        <attr name="topContentString" format="string"/>
+        <attr name="bottomContentString" format="string"/>
+        <attr name="bottomTitleString" format="string"/>
+    </declare-styleable>
+</resources>
